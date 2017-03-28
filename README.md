@@ -1,2 +1,2 @@
-# Html-liverpool-practice
+# Liverpool-practice website
 Basic webpage
