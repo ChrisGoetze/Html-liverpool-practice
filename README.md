@@ -1,2 +1,2 @@
 # Html-liverpool-practice
-Basic html page
+Basic webpage
